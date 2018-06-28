@@ -54,8 +54,8 @@
     "lodash": "^4.17.5",
     "prop-types": "^15.5.10",
     "react-fast-compare": "^2.0.0",
-    "sky-victory-core": "6.1.6",
-    "sky-victory-gauge": "0.0.11",
+    "sky-victory-core": "6.1.8",
+    "sky-victory-gauge": "0.0.12",
     "victory-chart": "^27.1.0",
     "victory-core": "^24.0.1",
     "victory-pie": "^16.0.1"
